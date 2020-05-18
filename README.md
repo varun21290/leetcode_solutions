@@ -1,3 +1,3 @@
-# leetcode_solutions
+# leetcode solutions
 
 contains solutions to leetcode problems
