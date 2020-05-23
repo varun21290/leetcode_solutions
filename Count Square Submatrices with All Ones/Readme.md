@@ -4,11 +4,17 @@ Given a m * n matrix of ones and zeros, return how many square submatrices have 
 
 
 Input: matrix =
+
 [
+
   [0,1,1,1],
+  
   [1,1,1,1],
+  
   [0,1,1,1]
+  
 ]
+
 Output: 15
 Explanation: 
 There are 10 squares of side 1.
