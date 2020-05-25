@@ -23,4 +23,10 @@ Explanation: We can draw 2 uncrossed lines as in the diagram.
 
 We cannot draw 3 uncrossed lines, because the line from A[1]=4 to B[2]=4 will intersect the line from A[2]=2 to B[1]=2.
 
+Note:
 
+1 <= A.length <= 500
+
+1 <= B.length <= 500
+
+1 <= A[i], B[i] <= 2000
