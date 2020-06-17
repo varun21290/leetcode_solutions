@@ -6,6 +6,7 @@ Given a 2D board containing 'X' and 'O' (the letter O), capture all regions surr
 A region is captured by flipping all 'O's into 'X's in that surrounded region.
 
 Input:
+
 X X X X
 
 X O O X
@@ -15,6 +16,7 @@ X X O X
 X O X X
 
 Output:
+
 X X X X
 
 X X X X
