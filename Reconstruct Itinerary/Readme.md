@@ -20,6 +20,6 @@ Input: [["JFK","SFO"],["JFK","ATL"],["SFO","ATL"],["ATL","JFK"],["ATL","SFO"]]
 
 Output: ["JFK","ATL","JFK","SFO","ATL","SFO"]
 
-Explanation: Another possible reconstruction is ["JFK","SFO","ATL","JFK","ATL","SFO"].
+Explanation: Another possible reconstruction is ["JFK","SFO","ATL","JFK","ATL","SFO"]. But it is larger in lexical order.
 
-             But it is larger in lexical order.
+        
